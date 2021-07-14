@@ -5,7 +5,7 @@
 
 ###### Vars#####
 $Path="C:\temp"
-$URL = "https://support2.vertafore.com/Repository/Documentation/DWN311/Sagitta.Launcher.msi"
+$URL = "https://github.com/THG-Bfreitas/THG-NetskopeInstall/raw/main/NSClient_87.0.0.704.msi"
 $OutputURL = "C:\temp\NSclient.msi"
 
 
