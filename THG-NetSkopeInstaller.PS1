@@ -1,6 +1,6 @@
 ### NetSkoppe Installer Created by Bfreitas 07/14/21 Contact for help####
 ###Envoke Via CMD###
-# powershell -command "iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/THG-Bfreitas/It-Scripts/main/THG-Installer.PS1'))" 
+# powershell -command "iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/THG-Bfreitas/THG-NetskopeInstall/main/THG-NetSkopeInstaller.PS1'))" 
 
 
 ###### Vars#####
