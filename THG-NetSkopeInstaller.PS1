@@ -32,6 +32,6 @@ Invoke-WebRequest -Uri "$URL" -OutFile "$outputURL"
 
 Write-host "Starting MSI installation"
 ##Executing MSI 
-msiexec /l*v C:\temp\nscinstall.log /I C:\temp\NSClient.msi token=e6cFeDnQ3Kw38C54KNiy host=addon-hilbgroup.goskope.com mode=peruserconfig autoupdate=on
+msiexec /I C:\temp\NSClient.msi token=e6cFeDnQ3Kw38C54KNiy host=addon-hilbgroup.goskope.com mode=peruserconfig autoupdate=on
 
 Stop-Transcript
