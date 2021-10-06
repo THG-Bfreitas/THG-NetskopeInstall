@@ -2,7 +2,7 @@
 ###Envoke Via CMD###
 # powershell -command "iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/THG-Bfreitas/THG-NetskopeInstall/main/THG-NetSkopeInstaller.PS1'))" 
 # uninstall 
-# C:\Windows\system32>msiexec.exe /x "C:\temp\NSClient.msi" /qn 
+# msiexec.exe /x "C:\temp\NSClient.msi" /qn 
 
 ###### Vars#####
 $Path="C:\temp"
